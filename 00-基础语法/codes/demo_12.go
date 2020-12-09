@@ -6,7 +6,7 @@ import (
 )
 
 type Result struct {
-	Code    int    `json:"code"`
+	Code    int    `json:"code1"`
 	Message string `json:"msg"`
 }
 
